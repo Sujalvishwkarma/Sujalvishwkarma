@@ -6,6 +6,7 @@
   <li>From Mahidpur Distt.Ujjain</li>
 </ul>
 <div style="display:flex;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50px">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50px">
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536394.png" width="50px">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50px">
 </div>
