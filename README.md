@@ -4,10 +4,11 @@
   <li>Currently i am pursuing B.C.A. from Manipal University Jaipur</li>
   <li>HTML5 | CSS3 | JavaScript | C | PHP | Wordpress | BootStrap5 </li>
   <li>From Mahidpur Distt.Ujjain</li>
+  <li>Email : <a href="mailto://ssujal497@gmail.com">ssujal497@gmail.com</a></li>
+  <li>PortFolio : <a href="https://sujalvishwkarma.netlify.app">sujalvishwkarma.netlify.app</a></li>
 </ul>
 <div style="display:flex;justify-content:space-around;">
   <a href=""><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px"></a>
   <a href=""><img src="https://cdn-icons-png.flaticon.com/512/3536/3536394.png" width="30px"></a>
   <a href=""><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px"></a>
-
 </div>
