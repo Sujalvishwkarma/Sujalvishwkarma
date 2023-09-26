@@ -13,10 +13,10 @@
 
 <div style="display:flex;justify-content:space-around;">
 <h3>Social Links : </h3>
-  <a href=""><img src="https://cdn-icons-png.flaticon.com/512/3256/3256016.png" width="30px"></a>
-  <a href=""><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px"></a>
-  <a href=""><img src="https://cdn-icons-png.flaticon.com/512/3536/3536394.png" width="30px"></a>
-  <a href=""><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px"></a>
+  <a href="https://www.linkedin.com/in/sujalvishwkarma/"><img src="https://cdn-icons-png.flaticon.com/512/3256/3256016.png" width="30px"></a>
+  <a href="https://www.instagram.com/sujal_vishwkarma/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px"></a>
+  <a href="https://www.facebook.com/profile.php?id=100035119734094"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536394.png" width="30px"></a>
+  <a href="https://www.youtube.com/@suvishgamerz1999"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px"></a>
 </div>
 
 <hr>
