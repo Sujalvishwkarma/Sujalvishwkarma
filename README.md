@@ -6,7 +6,7 @@
   <li>From Mahidpur Distt.Ujjain.</li>
   <li>Resume : <a href="https://drive.google.com/file/d/1IfYfy9cuNV_-QZDjBdzge-QCgGmnyYT9/view">Click here</a></li>
   <li>Email : <a href="mailto://ssujal497@gmail.com">ssujal497@gmail.com</a></li>
-  <li>PortFolio : <a href="https://sujalvishwkarma.netlify.app">sujalvishwkarma.netlify.app</a></li>
+  <li>PortFolio : <a href="https://sujalvishwkarma.github.io/Portfolio/">https://sujalvishwkarma.github.io/Portfolio/</a></li>
 </ul>
 
 <hr>
