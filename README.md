@@ -6,7 +6,7 @@
   <li>HTML5 | CSS3 | JavaScript | C | PHP | Wordpress | BootStrap5 .</li>
   <li>From Mahidpur Distt.Ujjain.</li>
   <li>Resume : <a href="https://drive.google.com/file/d/1IfYfy9cuNV_-QZDjBdzge-QCgGmnyYT9/view">Click here</a></li>
-  <li>Email : <a href="mailto://ssujal497@gmail.com">ssujal497@gmail.com</a></li>
+  <li>Email : <a href="mailto://ssujal497@gmail.com">ssujal497@gmail.com</a> || <a href="mailto://ssujal497@outlook.in">ssujal497@outlook.in</a></li>
   <li>PortFolio : <a href="https://sujalvishwkarma.github.io/Portfolio/">Click here</a></li>
 </ul>
 
