@@ -17,6 +17,6 @@
   <a href="https://www.instagram.com/sujal_vishwkarma/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px"></a>
   <a href="https://www.facebook.com/profile.php?id=100035119734094"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536394.png" width="30px"></a>
   <a href="https://www.youtube.com/@suvishgamerz1999"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px"></a>
-  <a href="https://twitter.com/SVishwkarm65560"><img src="https://cdn-icons-png.flaticon.com/256/5968/5968830.png" width="30px"></a>
+  <a href="https://twitter.com/SVishwkarm65560"><img src="https://cdn-icons-png.flaticon.com/512/356/356025.png" width="30px"></a>
 <hr>
 
