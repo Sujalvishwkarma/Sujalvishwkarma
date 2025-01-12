@@ -1,19 +1,14 @@
-<h1>Sujal Vishwkarma</h1>
+# Sujal Vishwkarma
 
-<div >
-  <div>
-<ul>
-  <li>Manipalian | BCA Aspirant | Working Professional | Code Enthusiast</li>
-  <li>Founder of <a href="https://anantvritti.vercel.app/">AnantVritti</a></li>
-  <li>Website and Mobile Application Developer</li>
-  <li>React | React Native | Node.js | Tailwind | FireBase | Java | SQL | MongoDb</li>
-  <li>From Mahidpur Distt.Ujjain Madhya Pradesh</li>
-  <li>Resume    : <a href="https://drive.google.com/file/d/1IfYfy9cuNV_-QZDjBdzge-QCgGmnyYT9/view">Click here</a></li>
-  <li>Email     : <a href="mailto://ssujal497@gmail.com">ssujal497@gmail.com</a> || <a href="mailto://ssujal497@outlook.in">ssujal497@outlook.in</a></li>
-  <li>PortFolio : <a href="https://sujal-vishwkarma.web.app">sujal-vishwkarma.web.app</a></li>
-</ul>
-</div>
-  </div> 
+- Manipalian | BCA Aspirant | Working Professional | Code Enthusiast
+- Founder of [AnantVritti](https://anantvritti.vercel.app/)
+- Website and Mobile Application Deveoper
+- React | React Native | Node.js | Tailwind | FireBase | Java | SQL | MongoDb
+- Resume    : [Click here](https://drive.google.com/file/d/1dBnxxkBgpbI5fWqpil2evzr5mPdQFTFJ/view?usp=sharing)
+- Email     : [ssujal497@gmail.com](mailto://ssujal497@gmail.com) || [ssujal497@outlook.in](mailto://ssujal497@outlook.in)
+- PortFolio : [sujal-vishwkarma.web.app](https://sujal-vishwkarma.web.app)
+- From Mahidpur Distt.Ujjain Madhya Pradesh
+
 
 <a href="https://github.com/sujalvishwkarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalvishwkarma&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Sujal's github stats" /></a> 
 <a href="https://github.com/sujalvishwkarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalvishwkarma&layout=compact&theme=transparent&hide_border=true" /></a>
