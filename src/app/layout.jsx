@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
 
-      <body className={`${Poppin.className} transition-all duration-200 antialiased dark:bg-black dark:text-white`}>
+      <body className={`${Poppin.className} relative transition-all duration-200 antialiased dark:bg-black dark:text-white`}>
     
 
         {children}

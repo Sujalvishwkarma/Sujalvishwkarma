@@ -1,6 +1,5 @@
 "use client"
 import Link from "next/link"
-import Image from "next/image"
 import { useState } from "react"
 import { PrimaryMenu } from "@/data/Menu"
 import { FaBarsStaggered ,FaCross,FaXmark} from "react-icons/fa6";
@@ -41,14 +40,18 @@ const Navbar = () => {
         </>
     )
 }
-const Header = ({ absolute, className }) => {
+const Header = ({ className }) => {
     const pathname = usePathname();
+    const path = pathname === '/Experience' || pathname === '/'; 
     const ispathnameactive = false
     return (
-        <div className={`${absolute && 'absolute w-full z-50'} ${className} ${ispathnameactive && 'text-white'}`}>
-            <Topbar />
-            <Navbar />
-        </div>
-    )
-}
-export default Header;
+      <div
+        className={`${className} ${path ? 'absolute w-full left-0 z-[50]' : ''} ${ispathnameactive && 'text-white'}`}
+      >
+        <Topbar />
+        <Navbar />
+      </div>
+    );
+  };
+  
+  export default Header;

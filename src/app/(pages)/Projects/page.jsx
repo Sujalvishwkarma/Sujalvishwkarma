@@ -1,6 +1,6 @@
 "use client"
 import Image from "next/image";
-import { Projects } from "@/data/Projects";
+import { Projects } from "@/constants/Projects";
 const Project = (props) => {
     return (
         <div className="border relative text-white bg-black p-5">
