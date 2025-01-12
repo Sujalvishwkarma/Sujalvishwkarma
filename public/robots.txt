@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /admin/   
-Disallow: /private/ 
-Allow: /            
-
-Sitemap: https://yourwebsite.com/sitemap.xml
+Disallow: /admin/
+Disallow: /login/
+Allow: /public/
+Allow: /about/
+Sitemap: https://sujal-vishwkarma.web.app/sitemap.xml
