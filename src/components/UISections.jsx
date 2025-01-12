@@ -1,37 +1,35 @@
 export const WhatiDo = () => {
   return (
     <div className="">
-      <div className="">
-        <h1>What I Do</h1>
+      <div className="text-center">
+        <h1 className="text-3xl font-bold my-5">What I  Do</h1>
       </div>
-      <div className="grid grid-cols-4">
+      <div className="grid grid-cols-4 px-[10%] gap-5">
         {
             Services.map((item,index)=>(
-                <div key={index} className="">
-                    <h1>{item.name}</h1>
+                <div key={index} className="p-5 border">
+                    <h1 className="text-lg font-bold">{item.name}</h1>
                     <p>{item.description}</p>
                 </div>
             ))
         }
       </div>
-    </div>
+    </div> 
   );
 };
 export const WhyChooseMe = () => {
     return(
         <div className="">
-            <div className="">
-                <h1>Why Choose Me</h1>
+            <div className="text-center">
+                <h1 className="text-3xl font-bold my-5">Why Choose Me</h1>
             </div>
-            <div className="grid grid-cols-3">
+            <div className="grid grid-cols-4 mx-[10%] gap-5">
                 {
                     qualities.map((item,index)=>(
-                        <div key={index} className="">
-                            <div className="border p-5">
-                                <h1>{item.name}</h1>
+                            <div key={index} className="border p-5">
+                                <h1 className="text-lg font-bold">{item.name}</h1>
                                 <p>{item.description}</p>
                             </div>
-                        </div>
                     ))
                 }
             </div>

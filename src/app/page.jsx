@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { useState, useEffect, useMemo } from "react";
 import Header from "@/ui/Header";
 import Footer from "@/ui/Footer";
+import { WhatiDo, WhyChooseMe } from "@/components/UISections";
 
 export default function Home() {
   const [title, setTitle] = useState("");
@@ -148,6 +149,10 @@ export default function Home() {
           </motion.div>
         </div>
       </section>
+
+      <WhatiDo/>
+
+      <WhyChooseMe/>
       <Footer />
     </>
   );
