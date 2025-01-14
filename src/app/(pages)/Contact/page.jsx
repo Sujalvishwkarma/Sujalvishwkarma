@@ -1,13 +1,11 @@
-"use client"
-import { PageTitle } from "@/components/PageTitle"
-import { usePathname } from "next/navigation"
+
 import { Input, TextArea } from "@/components/Input"
 import Image from "next/image"
+import BreadCumb from "@/components/BreadCumb"
 const Contact = () => {
-    const pathname = usePathname()
     return (
         <>
-            {/* <PageTitle style={"border-y-2 border-black"} title={"Contact"} /> */}
+        <BreadCumb/>
             <div className="grid grid-cols-2 max-md:flex max-md:flex-col-reverse my-10 mx-16 max-md:mx-5">
                 <div className="p-5 max-md:p-0">
                     <div className="grid w-3/4 max-md:w-full border-2 border-black p-5 mx-auto">

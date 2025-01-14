@@ -10,3 +10,12 @@ export const SecondaryMenu = [
     {name : "Hire Me" , href : "/HireMe"} ,
     {name : "Download Resume" , href : "/DownloadResume"} ,
 ]
+export const ImportantLinks = [
+    { name : 'AnantVritti' , href : '/' },
+    { name : 'Mailer' , href : '/' },
+    { name : 'CRM' , href : '/' },
+    { name : 'BhoomiConnect' , href : '/' },
+    { name : 'Draw' , href : '/' },
+    { name : 'Apna Shahar' , href : '/' },
+    { name : 'ITR' , href : '/' },
+]

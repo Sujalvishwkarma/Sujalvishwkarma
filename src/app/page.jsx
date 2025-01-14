@@ -65,7 +65,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <section className="min-h-screen flex relative dark:bg-black bg-gray-50">
+      <section className="min-h-screen flex relative dark:bg-black bg-stone-50">
         <div className="grid z-20 grid-cols-2 max-md:grid-cols-1 max-md:flex max-md:flex-col-reverse w-full my-auto mx-16 max-md:mx-5">
           <motion.div
             className="p-5 flex items-center"
@@ -75,7 +75,7 @@ export default function Home() {
           >
             <div className="max-md:text-center">
               <h4 className="text-2xl">Hello Everyone</h4>
-              <h1 className="text-5xl max-md:text-xl my-2">
+              <h1 className="text-4xl max-md:text-xl my-2">
                 I am <br className="hidden max-md:block" />
                 <motion.span
                   className="font-bold"

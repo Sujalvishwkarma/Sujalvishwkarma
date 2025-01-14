@@ -2,13 +2,14 @@
 import Link from "next/link"
 import { useState } from "react"
 import { PrimaryMenu } from "@/data/Menu"
-import { FaBarsStaggered ,FaCross,FaXmark} from "react-icons/fa6";
+import { FaBarsStaggered, FaCross, FaXmark } from "react-icons/fa6";
 import { usePathname } from "next/navigation"
+import { motion } from 'framer-motion'
 const NavButton = props => {
     return (
-        <li className="flex">
+        <motion.li whileHover={{ scale: 1.05 }} className="flex">
             <Link className="p-2 rounded-full max-md:bg-black max-md:text-white max-md:my-1" href={props.href}>{props.name}</Link>
-        </li>
+        </motion.li>
     )
 }
 const Topbar = () => {
@@ -34,7 +35,7 @@ const Navbar = () => {
                 <ul className="flex items-center gap-5 max-md:gap-2">
                     <li className="flex"><Link className="p-2 max-md:text-xs max-sm:text-[.6em] text-nowrap rounded-full" href="HireMe">Hire Me</Link></li>
                     <li className="flex"><Link className="p-2 max-md:text-xs max-sm:text-[.6em] text-nowrap px-3 border rounded-full text-white dark:text-black bg-black dark:bg-white" href="">Download CV</Link></li>
-                    <li className="hidden max-md:block"><button onClick={() => SetMenuActive(!isMenuActive)} className="p-2"> {isMenuActive ? <FaXmark size={18}/> : <FaBarsStaggered size={18} />}</button></li>
+                    <li className="hidden max-md:block"><button onClick={() => SetMenuActive(!isMenuActive)} className="p-2"> {isMenuActive ? <FaXmark size={18} /> : <FaBarsStaggered size={18} />}</button></li>
                 </ul>
             </nav>
         </>
@@ -42,16 +43,16 @@ const Navbar = () => {
 }
 const Header = ({ className }) => {
     const pathname = usePathname();
-    const path = pathname === '/Experience' || pathname === '/'; 
+    const path = pathname === '/Experience' || pathname === '/';
     const ispathnameactive = false
     return (
-      <div
-        className={`${className} ${path ? 'absolute w-full left-0 z-[50]' : ''} ${ispathnameactive && 'text-white'}`}
-      >
-        <Topbar />
-        <Navbar />
-      </div>
+        <div
+            className={`${className} ${path ? 'absolute w-full left-0 z-[50]' : ''} ${ispathnameactive && 'text-white'}`}
+        >
+            <Topbar />
+            <Navbar />
+        </div>
     );
-  };
-  
-  export default Header;
+};
+
+export default Header;
